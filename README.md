@@ -131,6 +131,27 @@ Also take a look to the following resources to learn more about css grid:
 ![Exercise 24](media/exercise-24.png)
 ![Exercise 24](media/exercise-24-response.png)
 
+## Exercise 25
+
+![Exercise 25](media/exercise-25.png)
+![Exercise 25](media/exercise-25-response.png)
+
+## Exercise 26
+
+![Exercise 26](media/exercise-26.png)
+![Exercise 26](media/exercise-26-response.png)
+
+## Exercise 27
+
+![Exercise 27](media/exercise-27.png)
+![Exercise 27](media/exercise-27-response.png)
+
+## Exercise 28
+
+![Exercise 28](media/exercise-28.png)
+![Exercise 28](media/exercise-28-response.png)
+
+
 ## Sucess Screen
 
 ![Sucess Screen](media/success-screen.gif)
