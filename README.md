@@ -99,7 +99,7 @@ Also take a look to the following resources to learn more about css grid:
 ## Exercise 18
 
 ![Exercise 18](media/exercise-18.png)
-![Exercise 18](media/exercise-18-response.png)
+![Exercise 18](media/exercise-18-responses.png)
 
 ## Exercise 19
 
